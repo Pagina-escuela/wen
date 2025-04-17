@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image:url(imagenes/DALL·E\ 2025-01-19\ 16.38.00\ -\ A\ clean\ and\ minimalistic\ background\ image\ for\ a\ school-themed\ webpage.\ The\ design\ features\ soft\ neutral\ tones\ like\ light\ gray\ and\ white\ with\ subtle\ gr.webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: #000000;
+}
+header {
+    background-image: url(imagenes/fondo.jpeg);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+}
+nav a:hover {
+    background-color: #4CAF50;
+}
